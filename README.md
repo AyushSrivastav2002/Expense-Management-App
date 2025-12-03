@@ -8,4 +8,4 @@ The added expenses will stored in the Local Storage.
 
 User can also delete the added espense.
 
-Deployed Link-https://spontaneous-youtiao-d89b6a.netlify.app/
+Deployed Link-https://expensivemanager.netlify.app/
