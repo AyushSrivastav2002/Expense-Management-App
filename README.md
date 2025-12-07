@@ -6,6 +6,6 @@ The added expenses can be shown on the website in the form of Table .
 
 The added expenses will stored in the Local Storage.
 
-User can also delete the added espense.
+User can also delete the added expense.
 
 Deployed Link-https://expensivemanager.netlify.app/
